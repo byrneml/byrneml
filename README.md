@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luke. I'm an investor at [Amaranthine](https://amaranthine.com), where I focus on developer tools, enterprise and infrastructure at pre-seed, Seed, and occasionally Series A. I split my time between investing & writing code for internal tools, and write a lot of code in my free time. If you'd like to chat, feel free to [email me](mailto:luke@amaranthine.com)
+I'm Luke. I'm an investor at [Amaranthine](https://amaranthine.com), where I focus on developer tools, enterprise and infrastructure at pre-seed, Seed, and occasionally Series A. I split my time between investing & writing code for internal tools, and write a lot of code in my free time. If you'd like to chat, feel free to [email me](mailto:luke@amaranthine.com) or book some time to chat [here](https://calendly.com/byrneml).
 
 - 🔭 Working at [Amaranthine](https://amaranthine.com) - investing and building internal tools, building [Packages](https://packages.so) in my free time. 
 
