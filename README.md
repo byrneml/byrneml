@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-I'm Luke. I'm an investor at [Amaranthine](https://amaranthine.com), where I focus on developer tools, enterprise and infrastructure at pre-seed, Seed, and occasionally Series A. I split my time between investing & writing code for internal tools, and write a lot of code in my free time. If you'd like to chat, feel free to [email me](mailto:luke@amaranthine.com) or book some time to chat [here](https://calendly.com/byrneml).
+I'm Luke. I'm seed-stage an investor at [Amaranthine](https://amaranthine.com), where I focus on developer tools, enterprise and infrastructure. I split my time between investing & writing code for internal tools, and write a lot of code in my free time. If you'd like to chat, feel free to [email me](mailto:luke@amaranthine.com) or book some time to chat [here](https://calendly.com/byrneml).
 
-- 🔭 Working at [Amaranthine](https://amaranthine.com) - investing and building internal tools, building [Packages](https://packages.so) in my free time. 
+- Working at [Amaranthine](https://amaranthine.com) - investing and building internal tools.
+- Thinking about the Verticalization of Cloud Infrastructure, Edge Computing, WebAssembly, and Low Code.
+- Building [Packages](https://packages.so) in my free time
 
-- 🌱 I’m currently learning all about [WebAssembly](https://github.com/byrneml/wasm-projects), [Low Code Tools](https://docs.google.com/spreadsheets/d/1Uq0QudL8nQTVKt1r2PdS0Yzkn9VzDpx02J_UInj2idE/edit?usp=sharing), and the future of how we write code.
+### Portfolio
+---
+I invest primarily in tools for builders. I'm lucky to get to work with the following companies:
 
-- 👯 I’m looking to speak with anyone thinking about the above areas, or generally thinking about starting a company.
-
-- 🤔 I’m looking for help with mapping out all the companies building tools for and around WebAssembly. If you know of any, please send them my way or add them [here](https://github.com/byrneml/wasm-projects)
-
-- 📫 How to reach me: [Email me](mailto:luke@amaranthine.com) :)
-
-- 😄 Pronouns: he/him
+- [Northflank](https://northflank.com) - The full stack cloud platform
+- [Unflow](https://unflow.com) - Build mobile app experiences without code
+- [Sym](https://symops.com) - Build the perfect security workflows
+- [Pico](https://trypico.com) - tools for creators
+- [MetaMap](https://metamap.com) - Customizable trust workflows for the trust economy
+- [Feathery](https://feathery.io) - Forms as flexible as code.
+- [Cloudsmith](https://cloudsmith.com) -  The software supply chain security platform
+- [Mozart Data](https://mozartdata.com) - The full stack data platform
+- [Grafbase](https://grafbase.com) - Edge data platform for developers.
