@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Luke. I'm seed-stage an investor at [Tapestry](https://tapestry.vc), where I focus on developer tools, enterprise and infrastructure. I split my time between investing & writing code for internal tools, and write a lot of code in my free time. If you'd like to chat, feel free to [email me](mailto:luke@tapestry.vc) or book some time to chat [here](https://calendly.com/byrneml).
+I'm Luke. I'm seed-stage an investor docused on developer tools and computing infrastructure. I split my time between investing & writing code whenever I can. If you'd like to chat, feel free to [email me](mailto:luke@tapestry.vc) or book some time to chat [here](https://calendly.com/byrnemluke).
 
-- Working at [Tapestry](https://tapestry.vc) - investing and building internal tools.
+- Working at TBC - investing and building internal tools.
 - Thinking about the Verticalization of Cloud Infrastructure, Edge Computing, [WebAssembly](https://byrnemluke.com/posts/webassembly), and Low Code.
 - Writing code (more soon).
 
