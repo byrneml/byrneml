@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luke. I'm seed-stage an investor docused on developer tools and computing infrastructure. I split my time between investing & writing code whenever I can. If you'd like to chat, feel free to [email me](mailto:luke@tapestry.vc) or book some time to chat [here](https://calendly.com/byrnemluke).
+I'm Luke. I'm seed-stage an investor docused on developer tools and computing infrastructure. I split my time between investing & writing code whenever I can. If you'd like to chat, feel free to book some time to chat [here](https://calendly.com/byrnemluke).
 
 - Working at TBC - investing and building internal tools.
 - Thinking about the Verticalization of Cloud Infrastructure, Edge Computing, [WebAssembly](https://byrnemluke.com/posts/webassembly), and Low Code.
