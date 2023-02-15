@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luke. I'm seed-stage an investor docused on developer tools and computing infrastructure. I split my time between investing & writing code whenever I can. If you'd like to chat, you can find me [here](https://twitter.com/byrnemluke).
+I'm Luke. I'm seed-stage an investor docused on computing infrastructure. I split my time between investing & writing code whenever I can. If you'd like to chat, you can find me [here](https://twitter.com/byrnemluke).
 
 - Working at [pebblebed](https://pebblebed.com) - building & investing in companies.
 - Thinking about the AI, Verticalization of Cloud Infrastructure, Edge Computing, [WebAssembly](https://byrnemluke.com/posts/webassembly), and Low Code.
